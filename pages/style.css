@@ -1,0 +1,1346 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 53px;
+  margin-bottom: 50px;
+}
+
+.letyour {
+  font-family: "DM Serif Display";
+  font-size: 65px;
+}
+
+.left {
+  font-family: "Josefin Sans", sans-serif;
+  display: flex;
+  margin-top: 4px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.right {
+  margin-top: -16px;
+}
+
+.Vector img{
+  padding-bottom: -4px;
+  height: 16px;
+  border: 0;
+
+
+}
+
+.Vector{
+  border: 0;
+  background-color: white;
+}
+
+.Vector:hover {
+  cursor: pointer;
+}
+
+.headerA {
+  margin-right: 31px;
+  margin-top: 62px;
+}
+
+/**********************************************************************************/
+
+.getStarted {
+  background-image: url(../assets/images/Photo.png);
+  width: 1200px;
+  height: 758px;
+  border-radius: 8%;
+}
+
+.getStartedInfo {
+  position: absolute;
+  top: 260px;
+  margin-left: 52px;
+}
+
+.getStartedInfo button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 26px 49px 26px 48px;
+  gap: 10px;
+
+  width: 220.14px;
+  height: 75px;
+
+  background: #292f36;
+  border-radius: 18px;
+  color: white;
+}
+
+/*********************************************************************************************/
+
+.readMore {
+  display: flex;
+  margin-top: 220px;
+}
+
+.ProjectPlan {
+  width: 358px;
+}
+
+.projectPlan {
+  text-align: center;
+  font-size: 25px;
+  color: #292f36;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.projectplan {
+  width: 358px;
+  height: 99px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  color: #4d5053;
+  display: flex;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+.ReadMore2 {
+  margin: auto;
+  position: relative;
+  display: block;
+  border: 0;
+  background-color: white;
+}
+
+.ReadMore2:hover {
+  cursor: pointer;
+}
+
+.ReadMore3 {
+  position: absolute;
+  top: 2px;
+  left: 76px;
+}
+
+.art {
+  width: 420px;
+  height: 189px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.02em;
+  color: #292f36;
+}
+
+.long {
+  width: 472px;
+  height: 132px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  color: #4d5053;
+}
+
+.getfree {
+  display: flex;
+  justify-content: center;
+  padding: 26px 31px;
+  background: #292f36;
+  border-radius: 18px;
+  color: white;
+}
+
+.img2 {
+  width: 500px;
+  height: 650px;
+  border-radius: 0px 260px 0px 80px;
+}
+
+.getFree {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+  margin-bottom: 120px;
+}
+
+.getfree:hover {
+  cursor: pointer;
+}
+
+.poople {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 64px;
+}
+
+.Poople {
+  font-family: "DM Serif Display";
+  text-align: center;
+  color: #292f36;
+  padding-top: 88px;
+  padding-bottom: 38px;
+}
+
+.Pople {
+  background-color: #f4f0ec;
+  border-radius: 64px;
+}
+
+.sydney {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.Sydney {
+  border-radius: 50%;
+}
+
+.benny {
+  width: 370px;
+  height: 339px;
+  border: 2px solid black;
+  background: #ffffff;
+  border-radius: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.usa {
+  font-family: "Jost";
+  color: #4d5053;
+  text-align: center;
+  font-size: 25px;
+}
+
+.Usa {
+  font-family: "Jost";
+  color: #4d5053;
+  font-size: 20px;
+  margin-top: -16px;
+}
+
+.mith {
+  font-size: 30px;
+}
+
+.Mith {
+  margin-top: -28px;
+}
+
+/************************************************************/
+
+.b1 {
+  margin-top: -24px;
+}
+
+.vector {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 150.4px;
+  margin-bottom: 150.4px;
+}
+
+/***********************************************************/
+
+.our {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 50px;
+  align-items: center;
+  text-align: center;
+  color: #292f36;
+}
+
+.ItIs {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  text-align: center;
+  color: #4d5053;
+}
+
+.modkit {
+  margin-top: 48px;
+}
+
+.ModDec {
+  display: flex;
+  justify-content: space-between;
+}
+
+.kitchan {
+  margin-top: 48px;
+}
+
+.ModKit {
+  display: flex;
+  justify-content: space-between;
+}
+
+.moddec {
+  margin-top: -16px;
+}
+
+.modern {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  align-items: center;
+  color: #292f36;
+  margin-bottom: 0;
+}
+
+.decor {
+  margin-top: 0;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+}
+
+.kitchan2 {
+  border-radius: 80px 0 0 0;
+}
+
+.kitchan1 {
+  border-radius: 0 80px 0 0;
+}
+
+.kitchan3 {
+  border-radius: 0 0 80px 0;
+}
+
+.kitchan4 {
+  border-radius: 0 0 0 80px;
+}
+
+/***************************************************************/
+
+.modhom {
+  background-color: #f4f0ec;
+  height: 457px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.ModHod {
+  display: flex;
+  justify-content: space-around;
+}
+
+.a3 {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 85px;
+  align-items: center;
+  color: #cda274;
+  margin-bottom: 0;
+}
+
+.a4 {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+  margin-left: -56px;
+}
+
+.a5 {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+  margin-left: -28px;
+}
+
+.a6 {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+  margin-left: -18px;
+}
+
+.a7 {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+  margin-left: -24px;
+}
+
+.c1 {
+  border: 1px solid #cda274;
+  width: 0px;
+  height: 160px;
+  margin-top: 100px;
+}
+
+.c2 {
+  border: 1px solid #cda274;
+  width: 0px;
+  height: 160px;
+  margin-top: 100px;
+}
+
+.c3 {
+  border: 1px solid #cda274;
+  width: 0px;
+  height: 160px;
+  margin-top: 100px;
+}
+
+/* ************************************************************* */
+
+.Articles {
+  margin-top: 200px;
+}
+
+.news {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 50px;
+  align-items: center;
+  text-align: center;
+  color: #292f36;
+}
+
+.itis {
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  text-align: center;
+  color: #4d5053;
+}
+
+.design {
+  margin-top: 64px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lets {
+  width: 305px;
+  height: 70px;
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  align-items: center;
+  color: #292f36;
+}
+
+.dec {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.december26 {
+  margin-top: 24px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 16px;
+  align-items: center;
+  color: #4d5053;
+}
+
+.kitchand {
+  width: 382px;
+  height: 540px;
+  border: 1px solid #e7e7e7;
+  border-radius: 62px;
+}
+
+.Ph {
+  border-radius: 45px 45px 0 0;
+}
+
+.kitd {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.livingd {
+  border-radius: 62px;
+  border: 1px solid #e7e7e7;
+  background: #f4f0ec;
+  width: 382px;
+  height: 540px;
+}
+
+.livd {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.interiord {
+  border-radius: 62px;
+  border: 1px solid #e7e7e7;
+  width: 382px;
+  height: 540px;
+}
+
+.intd {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.Wanna {
+  background-color: #292f36;
+  border-radius: 70px;
+  width: 1199px;
+  height: 374px;
+  margin-top: 200px;
+}
+
+.wjoin {
+  padding-top: 80px;
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+.itisa {
+  margin-top: 0;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.cwu:hover {
+  cursor: pointer;
+}
+
+.cwu {
+  border: 0;
+  position: relative;
+  display: block;
+  margin: auto;
+  color: #ffffff;
+  box-shadow: 0px 10px 20px #1f2022;
+  justify-content: center;
+  align-items: center;
+  padding: 26px 47px 26px 37px;
+  background: #cda274;
+  border-radius: 18px;
+}
+
+.Cwu {
+  font-family: "Jost";
+  font-weight: 600;
+  font-size: 18px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.cvu {
+  position: absolute;
+  margin-top: 4px;
+  margin-left: 4px;
+}
+
+.end {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lonG {
+  width: 393px;
+  height: 66px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  align-items: center;
+  color: #4d5053;
+}
+
+.PAJES {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 125%;
+  align-items: center;
+  color: #292f36;
+}
+
+.ourteam {
+  width: 125px;
+  height: 330px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 300%;
+  align-items: center;
+  color: #4d5053;
+}
+
+.home {
+  width: 120px;
+  height: 330px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 300%;
+  align-items: center;
+  color: #4d5053;
+}
+
+.Services2 {
+  width: 94px;
+  height: 31px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 125%;
+  align-items: center;
+  color: #292f36;
+}
+
+.Services3 {
+  width: 87px;
+  height: 31px;
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 125%;
+  align-items: center;
+  color: #292f36;
+}
+
+.home1 {
+  width: 258px;
+  height: 215px;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  align-items: center;
+  color: #4d5053;
+}
+
+.Copyright {
+  margin: 174px 0px 48px 0px;
+  display: block;
+  text-align: center;
+  font-family: "Jost";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  align-items: center;
+  color: #4d5053;
+}
+/* .=. .=. */
+/*    _    */
+/* '.___.' */
+
+
+
+
+.right{
+  animation-name: headerleft;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+
+@keyframes headerleft{
+  0%{transform: translate(-200px,0); opacity: 0;}
+  100%{transform: translate(0,0); opacity: 1;}
+}
+
+.left{
+  animation-name: headerright;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+
+@keyframes headerright{
+  0%{transform: translate(300px);opacity: 0;}
+  100%{transform: translate(0,0);opacity: 1;}
+}
+
+.getStartedInfo{
+  animation-name: bottomtotop;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+
+
+
+@keyframes bottomtotop{
+  0%{
+    transform: translate(0,-200px);
+    opacity: 0;
+  }
+  100%{
+    transform: translate(0,0);
+    opacity: 1;
+  }
+}
+
+ button{
+  animation-name: shakebutton;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+  box-shadow: 1px 1px 8px #000;
+}
+
+@keyframes shakebutton{
+  0%{
+    scale: 0.9;
+    opacity: 0.2;
+  }
+  25%{
+    scale: 1.1;
+    opacity: 1;
+  }
+  50%{
+    scale: 0.9;
+    opacity: 0.2;
+  }
+  75%{
+    scale: 1.1;
+    opacity: 1;
+  }
+  100%{
+    scale: 0.9;
+    transform: translate(0,0);
+    opacity: 0.2;
+  }
+}
+
+
+.ProjectPlan1{
+  animation-name: ProjectPlan1;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan1{
+  0%{
+    opacity: 0;
+    transform: translate(-100px,0);
+  }
+  50%{
+    opacity: 0;
+    transform: translate(-100px,0);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+.ProjectPlan2{
+  animation-name: ProjectPlan1;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan2{
+  0%{
+    opacity: 0;
+    transform: translate(-300px,0);
+  }
+  50%{
+    opacity: 0;
+    transform: translate(-300px,0);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+.ProjectPlan3{
+  animation-name: ProjectPlan1;
+  animation-duration: 3s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan3{
+  0%{
+    opacity: 0;
+    transform: translate(-300px,0);
+  }
+  70%{
+    opacity: 0;
+    transform: translate(-300px,0);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+/*izzat yozgan qodlari*/
+.art{
+  animation:izzat 3s ;
+}
+@keyframes izzat{
+  0%{margin-left: -600px;}
+  20%{transform: translate(100px);}
+  80%{transform: rotate(40deg);}
+  91%{transform: rotate(0deg);}
+  100%{transform: translate(0px);}
+}
+.img2{
+  animation: ilk 5s ;
+ 
+}
+@keyframes ilk{
+  0%{transform: scale(0.5);}
+  25%{transform: scale(1);}
+  50%{transform: scale(1);}
+  90%{transform: rotateY(150deg);}
+  100%{transform: 0;}
+}
+.long{
+  animation: cloud 5s;
+  box-sizing: border-box;
+}
+@keyframes cloud{
+  0%{margin-left: -600px;}
+  20%{ transition-timing-function:ease ;}
+  100%{}
+}
+/*shu yer gacha;;;;;;;;;;;;;*/
+.Poople{
+
+  animation-name: Poople;
+  animation-duration:3.4s;
+  animation-timing-function: linear;
+}
+
+@keyframes Poople{
+  0%{
+    scale: 0.03;
+    opacity: 0;
+  }
+  80%{
+    opacity: 0;
+    scale: 0.03;
+  }
+  100%{
+    scale: 1;
+    opacity: 1;
+  }
+}
+
+
+
+.benny1{
+  animation-name: ProjectPlan1;
+  animation-duration: 1.2s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan1{
+  0%{
+    opacity: 0;
+    transform: translate(0,-200px);
+  }
+  50%{
+    opacity: 0;
+    transform: translate(0,-200px);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+.benny2{
+  animation-name: ProjectPlan1;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan2{
+  0%{
+    opacity: 0;
+    transform: translate(0,-300px);
+  }
+  50%{
+    opacity: 0;
+    transform: translate(0,-300px);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+.benny3{
+  animation-name: ProjectPlan1;
+  animation-duration: 3s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes ProjectPlan3{
+  0%{
+    opacity: 0;
+    transform: translate(0,-300px);
+  }
+  70%{
+    opacity: 0;
+    transform: translate(0,-300px);
+  }
+  100%{
+    opacity: 1;
+    transform: translate(0,0);
+  }
+}
+
+.infinityicon1{
+  animation-name: infinityicon1;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes infinityicon1{
+  0%{
+    transform: translate(0,0);
+  }
+  8%{
+    transform: translate(40px,0);
+    opacity: 0;
+  }
+  9%{
+    opacity: 0;
+    transform: translate(-1100px,0);
+  }
+  20%{
+    opacity: 1;
+  }  
+}
+
+.infinityicon2{
+  animation-name: infinityicon2;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes infinityicon2{
+  0%{transform: translate(0,0);}
+  16%{
+
+    opacity: 1;
+  }
+  20%{
+    transform: translate(280px,0);
+    opacity: 0;
+  }
+  21%{
+    transform: translate(-850px,0);
+  }
+  35%{
+    opacity: 1;
+  }
+}
+
+
+
+
+.infinityicon3{
+  animation-name: infinityicon3;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes infinityicon3{
+  0%{
+    transform: translate(0,0);
+  }
+  36%{
+    opacity: 1;
+  }
+  40%{
+    transform: translate(540px,0);
+    opacity: 0;
+  }
+  41%{
+    transform: translate(-560px,0);
+  }
+  49%{
+    opacity: 1;
+  }
+}
+
+
+.infinityicon4{
+  animation-name: infinityicon4;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes infinityicon4{
+  0%{
+    transform: translate(0,0);
+  }
+
+  54%{
+    opacity: 1;
+  }
+  60%{
+    opacity: 0;
+    transform: translate(820px,0);
+  }
+  61%{
+    opacity: 0;
+    transform: translate(-360px,0);
+  }
+  70%{
+    opacity: 1;
+  }
+}
+
+.infinityicon5{
+  animation-name: infinityicon5;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes infinityicon5{
+  0%{
+    transform: translate(0,0);
+    
+  }
+  64%{
+    opacity: 1;
+  }
+  70%{
+    transform: translate(1000px,0);
+    opacity: 0;
+  }
+  71%{
+
+    opacity: 0;
+  }
+
+  86%{
+
+    transform: translate(-80px,0);
+    opacity: 0;
+  }
+  90%{
+    opacity: 1;
+  }
+
+}
+
+.kitchanall{
+  animation-name: kitchan11;
+  animation-duration: 0.8s;
+  animation-timing-function: linear;
+}
+
+@keyframes kitchan11{
+  0%{
+    transform: translate(-300px,0);
+    opacity: 0;
+  }
+  70%{
+    transform: translate(0,0);
+    opacity: 0.7;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+
+.ModKit{
+  animation-name: ModKit;
+  animation-duration: 0.8s;
+  animation-timing-function: linear;
+}
+
+
+@keyframes ModKit{
+  0%{
+    transform: translate(300px,0);
+    opacity: 0;
+  }
+  70%{
+    transform: translate(0,0);
+    opacity: 0.7;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+.follov{
+  animation-name: follov;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes follov{
+  0%{
+    scale: 0.5;
+    opacity: 0.3;
+    transform: translate(0,-120px);
+  }
+  100%{
+    scale: 1;
+    opacity: 1;
+  }
+}
+
+.a1{
+  animation-name: a1;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes a1{
+  0%{
+    transform: translate(0,-200px);
+    scale: 0;
+    opacity: 0;
+  }
+  60%{
+    transform: translate(0,-200px);
+    scale: 0;
+    opacity: 0.7;
+  }
+  100%{
+    transform: translate(0,0);
+    opacity: 1;
+  }
+}
+
+.a2{
+  animation-name: a1;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes a2{
+  0%{
+    transform: translate(0,-200px);
+    scale: 0;
+    opacity: 0;
+  }
+  60%{
+    transform: translate(0,-200px);
+    scale: 0;
+    opacity: 0.7;
+  }
+  100%{
+    transform: translate(0,0);
+    opacity: 1;
+  }
+}
+
+.c6{
+  animation-name: c6;
+  
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes  c6{
+  0%{
+    transform: translate(0,0);
+    height: 5px;
+  }
+  40%{
+    transform: translate(0,80px);
+  }
+}
+
+.articles{
+  animation-name: articles;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes articles{
+  0%{
+    transform: translate(0,120px);
+    opacity: 0;
+  }
+
+}
+
+.kitchand{
+  animation-name: kitchand;
+  animation-duration: 1.5s;
+  animation-timing-function: linear;
+  z-index: 0;
+}
+
+@keyframes kitchand{
+
+  0%{
+    transform: translate(416px,0);
+    scale: 0.95;
+    opacity: 0;
+  }
+}
+
+.livingd{
+  z-index: 1;
+  animation-name: livingd;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes livingd{
+  0%{
+    opacity: 0;
+  }
+}
+
+.interiord{
+  animation-name: interiord;
+  animation-duration: 1.5s;
+  animation-timing-function: linear;
+  z-index: 0;
+}
+
+@keyframes interiord{
+
+  0%{
+    transform: translate(-416px,0);
+    scale: 0.95;
+    opacity: 0;
+  }
+}
+
+
+.Wanna{
+  animation-name: Wanna;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes Wanna{
+  0%{
+    transform: translate(-400px,0);
+  }
+}
+
+.wanna{
+  animation-name: wanna;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes wanna{
+  0%{
+    transform: translate(800px,0);
+  }
+}
+
+
+.end{
+  animation-name: end;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+
+@keyframes end{
+  
+  0%{
+    transform: translate(0,0);
+    opacity: 0;
+  }
+  70%{
+    transform: translate(0,0);
+    opacity: 0;
+  }
+  71%{
+    transform: translate(0,800px);
+    opacity: 0;
+  }
+  100%{
+    transform: translate(0,0);
+    opacity: 1;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

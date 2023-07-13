@@ -1,0 +1,103 @@
+@media only screen and (max-width: 1200px) {
+  .wrapper {
+    width: 94%;
+    margin: auto;
+  }
+  .left {
+    margin-right: 3%;
+    margin-bottom: 40px;
+  }
+
+  .getStarted {
+    background-image: url(../assets/images/Photo.png);
+    width: 100%;
+    height: 758px;
+    border-radius: 8%;
+  }
+
+  .readMore {
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+  }
+
+  .getFree {
+    display: block;
+    text-align: center;
+    background-image: url(../assets/images/Photo\ \(1\).png);
+    background-size: 100% 100vh;
+    background-repeat: no-repeat;
+  }
+
+  .Stylishly {
+    display: flex;
+    justify-content: center;
+  }
+  .getfree {
+    display: block;
+    margin: auto;
+  }
+
+  .img2 {
+    display: none;
+  }
+  .long {
+    color: rgb(176, 141, 94);
+  }
+
+  .poople {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .benny {
+    margin: 16px;
+  }
+
+  .ModDec {
+    display: block;
+  }
+
+  .kitchan {
+    width: 550px;
+    display: block;
+    margin: auto;
+  }
+
+  .kitchanall {
+    border-radius: 0 124px 124px 0;
+  }
+
+  .design {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .livingd {
+    background-color: white;
+  }
+
+  .LLB {
+    margin: 16px;
+  }
+
+  .Wanna {
+    width: 100%;
+  }
+
+  .end {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 780px){
+  .letyourp{
+    font-size: 4%;
+  }
+
+  .left{
+    display: none;
+  }
+}
